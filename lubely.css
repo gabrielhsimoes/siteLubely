@@ -1,0 +1,501 @@
+h1{
+	color: #CD6090;
+	text-align: center;
+	background-color: #FFFFFF;
+	padding: 10px;
+	padding-top: 0px;
+	margin: -5px;
+	position: absolute;
+	left: 1100px;
+	font-family: Lobster;
+}
+
+h1{
+	background: -webkit-linear-gradient(top, #F781BE 50%, #FA58AC 30%);
+
+
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+img{
+	width: 55px;
+	position: absolute;
+	top: 5px;
+	left: 0px;
+
+}
+
+.item{
+	background-color: #363636;
+	color: #FFFFFF;
+	width: 7%;
+	height: 20px;
+	padding: 10px;
+	border-radius: 20px;
+	position: absolute;
+	top: -5px;
+	left: 70px;
+	cursor: pointer;
+
+
+}
+
+.hoje{
+	position: absolute;
+	top: 5px;
+	left: 210px;
+	cursor: pointer;
+
+}
+
+.hoje a{
+		text-decoration: none;
+		color: #000000;
+}
+
+.pasta{
+	position: absolute;
+	top: 5px;
+	left: 270px;
+	cursor: pointer;
+	color: #000000;
+}
+
+.pesquisa{
+	
+	position: absolute;
+	top: 15px;
+	left: 400px;
+	
+}
+
+#texto{
+	width: 600px;
+	height: 25px;
+	border-radius: 20px;
+	background-color: #CDC9C9;
+}
+
+.btn{
+	width: 23px;
+	position: absolute;
+	top: 16px;
+	left: 1010px;
+
+}
+
+.perfil{
+	border-radius: 100%;
+	width: 30px;
+	position: absolute;
+	top: 8px;
+	left: 1250px;
+}
+
+.mais{
+	border-radius: 100%;
+	width: 15px;
+	position: absolute;
+	top: 15px;
+	left: 1320px;
+}
+
+.gato{
+	width: 250px;
+	position: absolute;
+	top: 430px;
+	left: 70px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.gato2{
+	width: 190px;
+	position: absolute;
+	top: 430px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.gato3{
+	width: 250px;
+	position: absolute;
+	top: 130px;
+	left: 530px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+.gato4{
+	width: 250px;
+	position: absolute;
+	top: 130px;
+	left: 790px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+.gato5{
+	width: 250px;
+	position: absolute;
+	top: 130px;
+	left: 1050px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+.cabelo1{
+	width: 250px;
+	position: absolute;
+	top: 820px;
+	left: 70px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.cabelo2{
+	width: 190px;
+	position: absolute;
+	top: 730px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+.cabelo3{
+	width: 250px;
+	position: absolute;
+	top: 590px;
+	left: 530px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+.cabelo4{
+	width: 250px;
+	position: absolute;
+	top: 400px;
+	left: 790px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.cabelo5{
+	width: 250px;
+	position: absolute;
+	top: 480px;
+	left: 1050px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.s1{
+	width: 250px;
+	position: absolute;
+	top: 1150px;
+	left: 70px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.s2{
+	width: 190px;
+	position: absolute;
+	top: 1090px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.s3{
+	width: 250px;
+	position: absolute;
+	top: 880px;
+	left: 530px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.s4{
+	width: 250px;
+	position: absolute;
+	top: 690px;
+	left: 790px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.s5{
+	width: 250px;
+	position: absolute;
+	top: 800px;
+	left: 1050px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.deco1{
+	width: 250px;
+	position: absolute;
+	top: 1850px;
+	left: 70px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.deco2{
+	width: 190px;
+	position: absolute;
+	top: 1410px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.deco3{
+	width: 250px;
+	position: absolute;
+	top: 1190px;
+	left: 530px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.deco4{
+	width: 250px;
+	position: absolute;
+	top: 1080px;
+	left: 790px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.deco5{
+	width: 250px;
+	position: absolute;
+	top: 1070px;
+	left: 1050px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.paisa1{
+	width: 250px;
+	position: absolute;
+	top: 2310px;
+	left: 70px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.paisa2{
+	width: 190px;
+	position: absolute;
+	top: 1760px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.paisa3{
+	width: 250px;
+	position: absolute;
+	top: 1520px;
+	left: 530px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.paisa4{
+	width: 250px;
+	position: absolute;
+	top: 1470px;
+	left: 790px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.paisa5{
+	width: 250px;
+	position: absolute;
+	top: 1370px;
+	left: 1050px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.maq1{
+	width: 190px;
+	position: absolute;
+	top: 2110px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.maq2{
+	width: 250px;
+	position: absolute;
+	top: 1980px;
+	left: 530px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.maq3{
+	width: 250px;
+	position: absolute;
+	top: 1930px;
+	left: 790px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.maq4{
+	width: 250px;
+	position: absolute;
+	top: 2050px;
+	left: 1050px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.tato1{
+	width: 190px;
+	position: absolute;
+	top: 2370px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.tato2{
+	width: 250px;
+	position: absolute;
+	top: 2510px;
+	left: 530px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.tato3{
+	width: 250px;
+	position: absolute;
+	top: 2380px;
+	left: 790px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.tay1{
+	width: 250px;
+	position: absolute;
+	top: 2630px;
+	left: 70px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+.tay2{
+	width: 190px;
+	position: absolute;
+	top: 2570px;
+	left: 330px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.balao{
+	background-color: #FFE4E1;
+	padding: 5px;
+	bottom: 230px;
+	width: 500px;
+	position: absolute;
+	top: 80px;
+	border-radius: 30px;
+}
+
+.balao p{
+	margin: 0px;
+	margin-top: 0px;
+
+}
+
+.a1{
+	position: relative;
+	left: 30px;
+}
+
+.a2{
+	position: relative;
+	left: 30px;
+}
+
+.lub{
+	line-height: 1.5;
+	font-size: 20px;
+	padding-left: 30px;
+
+}
+
+.pin{
+	text-align: right;
+	margin-top: 0px;
+}
+
+.pin1{
+	position: relative;
+	top: -200px;
+	left: 250px;
+	font-size: 20px;
+}
+
+.pin2{
+	position: relative;
+	top: -200px;
+	left: 250px;
+	font-size: 20px;
+}
+
+.pin3{
+	position: relative;
+	top: -200px;
+	left: 250px;
+	font-size: 20px;
+}
+
+.zoom1, .zoom2, .zoom3, .zoom4, .zoom5, .zoom6, .zoom7, .zoom8, .zoom9, .zoom10, .zoom11, .zoom12, .zoom13, .zoom14, .zoom15,
+.zoom16, .zoom17, .zoom18, .zoom19, .zoom20, .zoom21, .zoom22, .zoom23, .zoom24, .zoom25,
+.zoom26, .zoom27, .zoom28, .zoom29, .zoom30, .zoom31, .zoom32, .zoom33, .zoom34{
+	overflow: hidden;
+}
+
+.zoom1 img, .zoom2 img, .zoom3 img, .zoom4 img, .zoom5 img, .zoom6 img, .zoom7 img, .zoom8 img, .zoom9 img, .zoom10 img,
+.zoom11 img, .zoom12 img, .zoom13 img, .zoom14 img, .zoom15 img, .zoom16 img, .zoom17 img, .zoom18 img, .zoom19 img, .zoom20 img,
+.zoom21 img, .zoom22 img, .zoom23 img, .zoom24 img, .zoom25 img, .zoom26 img, .zoom27 img, .zoom28 img, .zoom29 img,
+.zoom30 img, .zoom31 img, .zoom32 img, .zoom33 img, .zoom34 img{
+	max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.zoom1:hover img, .zoom2:hover img, .zoom3:hover img, .zoom4:hover img, .zoom5:hover img, .zoom6:hover img, .zoom7:hover img, .zoom8:hover img, .zoom9:hover img, .zoom10:hover img,
+.zoom11:hover img, .zoom12:hover img, .zoom13:hover img, .zoom14:hover img, .zoom15:hover img,
+.zoom16:hover img, .zoom17:hover img, .zoom18:hover img, .zoom19:hover img, .zoom20:hover img,
+.zoom21:hover img, .zoom22:hover img, .zoom23:hover img, .zoom24:hover img, .zoom25:hover img,
+.zoom26:hover img, .zoom27:hover img, .zoom28:hover img, .zoom29:hover img,
+.zoom30:hover img, .zoom31:hover img, .zoom32:hover img, .zoom33:hover img, .zoom34:hover img{
+
+	-moz-transition: scale(1.1);
+	-webkit-transition: scale(1.1);
+	transform: scale(1.1);
+}

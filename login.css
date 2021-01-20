@@ -1,0 +1,358 @@
+body{
+	background: #FFE4E1;
+}
+
+h1{
+font-family: Lobster;
+position: relative;
+left: 50px;
+bottom: 30px;
+
+}
+
+.participar{
+	font-family: Roboto;
+	position: relative;
+	left: 50px;
+	bottom: 40px;
+}
+
+.identifica{
+	background-color: #FAFAFA;
+	width: 350px;
+	padding: 40px;
+	border-radius: 30px;
+	padding-bottom: 60px;
+	font-family: Roboto;
+	position: relative;
+	left: 500px;
+	line-height: 2;
+
+}
+
+.t1{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+	left: 50px;
+	bottom: 30px;
+	margin-bottom: 90px;
+
+}
+#texto{
+	border-radius: 5px;
+	border: 1px solid #424242;
+	margin-bottom: 90px;
+}
+
+h2{
+	position: relative;
+	left: 500px;
+
+	background-color: #FAFAFA;
+	width: 350px;
+	padding: 40px;
+	border-radius: 30px;
+	padding-bottom: 60px;
+	font-size: 15px;
+}
+
+.avancar{
+	position: relative;
+	left: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+
+.meudeus{
+	font-family: Roboto;
+	position: relative;
+	top: 50px;
+}
+
+.botao1{
+	font-family: Roboto;
+	padding-right: 120px;
+	padding-left: 120px;
+	position: relative;
+	left: 20px;
+	top: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #B40404;
+	color: #FFFFFF;
+	border-radius: 10px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.botao1 a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.meajude{
+position: relative;
+	left: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+
+h3{
+	position: relative;
+	left: 500px;
+
+	background-color: #FAFAFA;
+	width: 350px;
+	padding: 40px;
+	border-radius: 30px;
+	padding-bottom: -10px;
+	font-size: 15px;
+}
+
+.gatos{
+	position: relative;
+	top: 40px;
+	font-family: Open Sans;
+	background-color: #9A2EFE;
+	width: 50px;
+	padding: 20px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.cabelos{
+	position: relative;
+	bottom: 20px;
+	left: 120px;
+	font-family: Open Sans;
+	width: 50px;
+	padding: 20px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #F79F81;
+	cursor: pointer;
+}
+
+.saude{
+	position: relative;
+	bottom: 80px;
+	left: 240px;
+	font-family: Open Sans;
+	width: 70px;
+	padding: 15px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #FE9A2E;
+	cursor: pointer;
+}
+
+.decoracao{
+	position: relative;
+	bottom: 80px;
+	font-family: Open Sans;
+	background-color: #F5A9D0;
+	width: 60px;
+	padding: 20px;
+	padding-left: 15px;
+	border-radius: 10px;
+	color: #FFFFFF;
+		cursor: pointer;
+}
+
+.paisagem{
+	position: relative;
+	bottom: 140px;
+	left: 120px;
+	font-family: Open Sans;
+	width: 50px;
+	padding: 20px;
+	padding-left: 5px;
+	padding-right: 30px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #D8F781;
+	cursor: pointer;
+}
+
+.foto{
+	position: relative;
+	bottom: 190px;
+	left: 240px;
+	font-family: Open Sans;
+	width: 70px;
+	padding: 15px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #F3F781;
+	cursor: pointer;
+}
+
+.maq{
+	position: relative;
+	bottom: 180px;
+	font-family: Open Sans;
+	background-color: #DF013A;
+	width: 60px;
+	padding: 20px;
+	padding-right: 25px;
+	padding-left: 5px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.roupa{
+	position: relative;
+	bottom: 240px;
+	left: 120px;
+	font-family: Open Sans;
+	width: 50px;
+	padding: 20px;
+	padding-left: 5px;
+	padding-right: 30px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #610B5E;
+	cursor: pointer;
+}
+
+.tato{
+	position: relative;
+	bottom: 290px;
+	left: 240px;
+	font-family: Open Sans;
+	width: 70px;
+	padding: 15px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #0080FF;
+	cursor: pointer;
+}
+
+.diy{
+	position: relative;
+	bottom: 280px;
+	font-family: Open Sans;
+	background-color: #5FB404;
+	width: 60px;
+	padding: 20px;
+	padding-right: 25px;
+	padding-left: 5px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.wal{
+	position: relative;
+	bottom: 340px;
+	left: 120px;
+	font-family: Open Sans;
+	width: 50px;
+	padding: 20px;
+	padding-left: 5px;
+	padding-right: 30px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #01DFD7;
+	cursor: pointer;
+}
+
+.unhas{
+	position: relative;
+	bottom: 390px;
+	left: 240px;
+	font-family: Open Sans;
+	width: 70px;
+	padding: 15px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #CEF6CE;
+	cursor: pointer;
+}
+
+.sapatos{
+	position: relative;
+	bottom: 380px;
+	font-family: Open Sans;
+	background-color: #8181F7;
+	width: 60px;
+	padding: 20px;
+	padding-right: 25px;
+	padding-left: 5px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.acessorios{
+	position: relative;
+	bottom: 440px;
+	left: 120px;
+	font-family: Open Sans;
+	width: 50px;
+	padding: 20px;
+	padding-left: 5px;
+	padding-right: 30px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #FE9A2E;
+	cursor: pointer;
+}
+
+.receitas{
+	position: relative;
+	bottom: 490px;
+	left: 240px;
+	font-family: Open Sans;
+	width: 70px;
+	padding: 15px;
+	border-radius: 10px;
+	color: #FFFFFF;
+	background-color: #2EFE9A;
+	cursor: pointer;
+}
+
+.botao2{
+	font-family: Roboto;
+	padding-right: 120px;
+	padding-left: 120px;
+	position: relative;
+	left: 20px;
+	top: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #B40404;
+	color: #FFFFFF;
+	border-radius: 10px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.botao2 a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.botao3{
+	font-family: Roboto;
+	padding-right: 120px;
+	padding-left: 120px;
+	position: relative;
+	left: 20px;
+	top: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #B40404;
+	color: #FFFFFF;
+	border-radius: 10px;
+	border: 0px;
+	cursor: pointer;
+}
+
+.botao3 a{
+	color: #FFFFFF;
+	text-decoration: none;
+}

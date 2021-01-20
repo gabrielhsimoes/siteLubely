@@ -1,0 +1,375 @@
+
+
+h1{
+	
+	background-color: #F8E0EC;
+	color: #4B088A;
+	height: 200px;
+	padding: 70px;
+	margin: -8px;
+
+}
+
+.titulo{
+font-family: Raleway;
+	font-size: 25px;
+	width: 290px;
+	position: relative;
+	top: 70px;
+}
+
+.lub{
+	font-size: 20px;
+	font-family: Lobster;
+	position: relative;
+	bottom: 170px;
+}
+
+.passos{
+	font-family: Raleway;
+	font-size: 15px;
+	position: relative;
+	bottom: 290px;
+	left: 90px;
+	cursor: pointer;
+}
+
+.public{
+	font-family: Raleway;
+	font-size: 15px;
+	position: relative;
+	bottom: 323px;
+	left: 240px;
+	cursor: pointer;
+}
+
+.divulgue{
+	font-family: Raleway;
+	font-size: 15px;
+	position: relative;
+	bottom: 355px;
+	left: 350px;
+	cursor: pointer;
+}
+
+.afiliados{
+	font-family: Raleway;
+	font-size: 15px;
+	position: relative;
+	bottom: 388px;
+	left: 515px;
+	cursor: pointer;
+}
+
+.ajuda{
+	font-family: Raleway;
+	font-size: 15px;
+	position: relative;
+	bottom: 421px;
+	left: 600px;
+	cursor: pointer;
+}
+
+.perfil{
+	width: 30px;
+	position: relative;
+	bottom: 463px;
+	left: 1100px;
+	border-radius: 100%;
+}
+
+.nome{
+	font-size: 15px;
+	position: relative;
+	bottom: 507px;
+	left: 1140px;
+}
+
+.sobrelub{
+	font-size: 60px;
+	color: #585858;
+	font-family: Righteous;
+	position: relative;
+	top: 100px;
+	left: 50px;
+
+}
+
+.pag1{
+	font-family: Raleway;
+	font-size: 20px;
+	width: 600px;
+	margin-left: 600px;
+	text-align: justify;
+}
+
+h2{
+	font-size: 60px;
+	width: 40%;
+	color: #585858;
+	font-family: Righteous;
+	position: relative;
+	top: 100px;
+	left: 50px;
+}
+
+.pag2{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	top: 100px;
+	left: 50px;
+	background-color: #088A4B;
+	color: #F2F2F2;
+	padding: 35px;
+	width: 300px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag3{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 230px;
+	left: 460px;
+	background-color: #FF4000;
+	color: #F2F2F2;
+	padding: 50px;
+	padding-bottom: 80px;
+	width: 300px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag4{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 550px;
+	left: 900px;
+	background-color: #FACC2E;
+	color: #F2F2F2;
+	padding: 50px;
+	padding-bottom: 200px;
+	width: 300px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag5{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 490px;
+	left: 50px;
+	background-color: #2E9AFE;
+	color: #F2F2F2;
+	padding: 35px;
+	padding-bottom: 100px;
+	width: 300px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag6{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 720px;
+	left: 460px;
+	background-color: #F78181;
+	color: #F2F2F2;
+	padding: 50px;
+	padding-bottom: 140px;
+	width: 310px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag7{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 1050px;
+	left: 900px;
+	background-image: url(tay2.jpg);
+	background-size: 400px;
+	color: #F2F2F2;
+	padding: 50px;
+	padding-bottom: 200px;
+	width: 300px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag8{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 1180px;
+	left: 50px;
+	background-image: url(imagem13.jpg);
+	background-size: 370px;
+	color: #F2F2F2;
+	padding: 35px;
+	padding-bottom: 100px;
+	width: 300px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag9{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 1400px;
+	left: 460px;
+	background-color: #088A4B;
+	color: #F2F2F2;
+	padding: 50px;
+	padding-bottom: 50px;
+	width: 310px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+.pag10{
+	font-size: 40px;
+	font-family: Rubik;
+	position: relative;
+	bottom: 1580px;
+	left: 900px;
+	background-color: #FACC2E;
+	background-size: 400px;
+	color: #F2F2F2;
+	padding: 50px;
+	padding-bottom: 90px;
+	width: 300px;
+	border-radius: 30px;
+	cursor: pointer;
+}
+
+h3{
+	font-size: 60px;
+	color: #585858;
+	font-family: Righteous;
+	position: relative;
+	top: -1400px;
+	left: 50px;
+}
+
+.empresa{
+	font-family: Raleway;
+	font-size: 20px;
+	width: 600px;
+	margin-left: 600px;
+	text-align: justify;
+	position: relative;
+	top: -1600px;
+}
+
+h4{
+	font-family: Raleway;
+	text-align: center;
+	color: #585858;
+	font-size: 60px;
+	position: relative;
+	top: -1400px;
+}
+
+.azul{
+	width: 600px;
+	position: relative;
+	top: -1450px;
+	left: 600px;
+}
+
+.divisao1{
+	background-color: #81DAF5;
+	padding: 56px;
+	font-family: Raleway;
+	color: #0B4C5F;
+	width: 400px;
+	position: relative;
+	top: -1855px;
+	left: 88px;
+	padding-bottom: 34px;
+}
+
+.comunidade1{
+	font-size: 38px;
+}
+
+.comunidade2{
+	font-size: 25px;
+	
+}
+
+.comunidade3{
+	border: 3px solid #0B4C5F;
+	width: 190px;
+	border-radius: 20px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.rosa{
+	width: 510px;
+	position: relative;
+	top: -1855px;
+	left: 88px;
+}
+
+.divisao2{
+	background-color: #F5A9A9;
+	padding: 56px;
+	font-family: Raleway;
+	color: #0B4C5F;
+	width: 400px;
+	position: relative;
+	top: -2199px;
+	left: 598px;
+	padding-top: 10px;
+	padding-bottom: 18px;
+	padding-right: 146px;
+}
+
+.comunidade22{
+	font-size: 38px;
+}
+
+.comunidade222{
+	font-size: 25px;
+}
+
+.comunidade2222{
+	border: 3px solid #0B4C5F;
+	width: 150px;
+	border-radius: 20px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.precisa{
+	font-family: Rubik;
+	margin: 0px;
+	background-color: #0B2F3A;
+	color: #FFFFFF;
+	font-size: 30px;
+	padding: 50px;
+	margin: -10px;
+	margin-top: -900px;
+	position: relative;
+	top: 0px;
+}
+
+footer{
+	font-family: Raleway;
+	background: #000000;
+	color: #FFFFFF;
+	padding: 20px;
+	margin: -10px;
+	padding: 50px;
+	
+}
